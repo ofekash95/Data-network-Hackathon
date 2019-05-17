@@ -1,0 +1,6 @@
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\ConsoleApplication1\obj\Debug\CnC.csprojResolveAssemblyReference.cache
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

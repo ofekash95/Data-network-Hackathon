@@ -1,0 +1,6 @@
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\anSHOBi\bin\Debug\anSHOBi.exe.config
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\anSHOBi\bin\Debug\anSHOBi.exe
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\anSHOBi\bin\Debug\anSHOBi.pdb
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\anSHOBi\obj\Debug\anSHOBi.exe
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\anSHOBi\obj\Debug\anSHOBi.pdb
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\anSHOBi\obj\Debug\CnC.csprojResolveAssemblyReference.cache

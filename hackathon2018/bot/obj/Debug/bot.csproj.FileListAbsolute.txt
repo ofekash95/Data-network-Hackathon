@@ -1,0 +1,10 @@
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\bot\bin\Debug\bot.exe.config
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\bot\bin\Debug\bot.exe
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\bot\bin\Debug\bot.pdb
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\bot\obj\Debug\bot.csprojResolveAssemblyReference.cache
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\bot\obj\Debug\bot.exe
+c:\users\amir1\documents\visual studio 2015\Projects\hackathon2018\bot\obj\Debug\bot.pdb
+C:\Users\amir1\documents\visual studio 2015\Projects\hackathon2018\bot\bin\Debug\anSHOBi.exe
+C:\Users\amir1\documents\visual studio 2015\Projects\hackathon2018\bot\bin\Debug\ConsoleApplication1.exe
+C:\Users\amir1\documents\visual studio 2015\Projects\hackathon2018\bot\bin\Debug\anSHOBi.pdb
+C:\Users\amir1\documents\visual studio 2015\Projects\hackathon2018\bot\bin\Debug\ConsoleApplication1.pdb
